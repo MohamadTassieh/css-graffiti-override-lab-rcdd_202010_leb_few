@@ -7,11 +7,11 @@
   display: none;
 }
 
-body #wall #tag-3 + .slick-wicked {
+body #wall #tag-3{
   display: none;
 }
 
- #wall .parent #tag-4 {
+ /*#wall .parent #tag-4 {
   display: none;
 }
 
@@ -25,4 +25,4 @@ body #wall #tag-3 + .slick-wicked {
 
  div #wall div .parent div > #tag-7 .slick{
   display: none;
-}
+}*/
