@@ -11,11 +11,11 @@ body #wall #tag-3  .slick-wicked {
   display: none;
 }
 
-#wall .parent #tag-4 {
+body #wall .parent #tag-4 {
   display: none;
 }
 
-#tag-5 {
+body #wall .parent div #tag-5 .slick {
   display: none;
 }
 
