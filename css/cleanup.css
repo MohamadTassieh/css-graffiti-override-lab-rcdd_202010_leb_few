@@ -3,10 +3,14 @@
   display: none;
 }
 
-# tag-2 {
+#tag-2 {
   display: none;
 }
 
 #wall .tag-3 {
+  display: none;
+}
+
+.parent #tag-5{
   display: none;
 }
